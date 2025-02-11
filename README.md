@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/rimazibnraheem" target="blank"><img src="https://img.shields.io/twitter/follow/rimazibnraheem?logo=twitter&style=for-the-badge" alt="rimazibnraheem" /></a> </p>
 
-- 🌱 I’m currently learning **Python,Azure and Web Development!**
+- 🌱 I’m currently learning **Python, Azure and Web Development!**
 
 - 🤝 I’m looking for help with **freelancing, Python, and web development!**
 
